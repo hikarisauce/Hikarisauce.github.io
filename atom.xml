@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hikarisauce.github.io</id>
+    <title>希卡利的小窩</title>
+    <updated>2024-10-04T13:00:56.535Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hikarisauce.github.io"/>
+    <link rel="self" href="https://hikarisauce.github.io/atom.xml"/>
+    <subtitle>回望时，皆是你与光芒</subtitle>
+    <logo>https://hikarisauce.github.io/images/avatar.png</logo>
+    <icon>https://hikarisauce.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 希卡利的小窩</rights>
+    <entry>
+        <title type="html"><![CDATA[About Hikari]]></title>
+        <id>https://hikarisauce.github.io/post/about-hikari/</id>
+        <link href="https://hikarisauce.github.io/post/about-hikari/">
+        </link>
+        <updated>2024-10-04T12:19:37.000Z</updated>
+        <content type="html"><![CDATA[<p>Hikari  性别：女  年龄：未知<br>
+身高：170cm  发色：浅蓝 /黑<br>
+体重：47kg  胸围：？？？ 腰围：62.05cm  臂围：96.05cm<br>
+喜好：玩节奏大师，躺在床上，吃零食，喝元气森林<del>（̶同时也是元̶气̶森̶林̶兼字母哥6代̶言̶人̶）̶</del><br>
+厌恶：虫子，血，洋葱，茄子，一切魔怔人<br>
+特长：？？？<br>
+性格：不稳定，较为急躁，心里总被优越感禁锢着，胆小，懦弱，害怕鬼神，害怕黑夜<br>
+下面就是Hikari<img src="https://hikarisauce.github.io/post-images/1728045808522.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
