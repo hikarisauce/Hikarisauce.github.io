@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://hikarisauce.github.io</id>
     <title>Hikari的毛坯房</title>
-    <updated>2025-05-11T03:32:25.760Z</updated>
+    <updated>2025-05-11T03:42:25.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://hikarisauce.github.io"/>
+    <link rel="self" href="https://hikarisauce.github.io/atom.xml"/>
     <subtitle>愛情來得太快就像龍捲風 離不開暴風圈來不及逃</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://hikarisauce.github.io/images/avatar.png</logo>
+    <icon>https://hikarisauce.github.io/favicon.ico</icon>
     <rights>All rights reserved 2025, Hikari的毛坯房</rights>
     <entry>
         <title type="html"><![CDATA[?]]></title>
-        <id>http://localhost:4000/post/</id>
-        <link href="http://localhost:4000/post/">
+        <id>https://hikarisauce.github.io/post/</id>
+        <link href="https://hikarisauce.github.io/post/">
         </link>
         <updated>2025-05-11T03:22:56.000Z</updated>
         <content type="html"><![CDATA[<p>?</p>
